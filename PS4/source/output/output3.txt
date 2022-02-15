@@ -1,0 +1,17 @@
+5
+-N OR -P
+M OR Q
+-M OR Q
+P
+N
+7
+-N OR Q
+M
+-P OR Q
+-M
+-N
+-P
+Q
+1
+{}
+YES
